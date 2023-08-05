@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 你好，世界
+title: 如何使用 Jekyll 和 GitHub 页面创建简单、免费的博客
 ---
 https://chrisjhart.com/Creating-a-Simple-Free-Blog/
 
